@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 baseurl: "trinity652.github.io"
 title: "Abhilasha's blog"
+=======
+baseurl:"trinity652.github.io"
+title: Tufte-Jekyll
+>>>>>>> daf75fc5f16eff03e10572a1efb8a6c97a401eea
 subtitle: Content-centric blogging
 author: clay harmon
 simple_search: http://google.com/search
