@@ -5,6 +5,7 @@ require 'date'
 require 'yaml'
 require 'tmpdir'
 require 'jekyll'
+require 'newthought'
 
 desc "Generate blog files"
 task :generate do
