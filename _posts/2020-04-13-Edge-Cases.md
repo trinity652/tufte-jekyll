@@ -10,7 +10,7 @@ Some edge cases and cautionary examples on using Markdown for writing content us
 ### Mathjax improperly parsing greater and less than and ampersands inside blocks
 
 The mathjax HTML ```<head>``` scripts have been modified to properly render block style mathjax expressions inside a ```$$ ... $$``` set of character pairs,
-using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are now parsing correctly, I believe.
+using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are now parsing correctly.
 
 This code:
 
